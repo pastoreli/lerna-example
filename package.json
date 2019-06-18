@@ -16,5 +16,8 @@
     "npm"
   ],
   "author": "Igor F. Pastoreli",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  }
 }
