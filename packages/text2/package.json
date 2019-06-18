@@ -1,11 +1,11 @@
 {
-  "name": "@consent/text",
-  "version": "2.0.0-alpha.0",
+  "name": "@consent/text2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "pastoreli <pastoreli.igor@gmail.com>",
   "homepage": "https://github.com/pastoreli/lerna-example#readme",
   "license": "ISC",
-  "main": "lib/text.js",
+  "main": "lib/text2.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/pastoreli/lerna-example/issues"
-  },
-  "gitHead": "c0b597b350dd0aa54ba0330f0e5e559c8577f83a"
+  }
 }
