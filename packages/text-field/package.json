@@ -1,11 +1,11 @@
 {
-  "name": "@consent/text",
-  "version": "7.0.0-alpha.0",
+  "name": "@consent/text-field",
+  "version": "1.0.0",
   "description": "> TODO: description",
-  "author": "pastoreli <pastoreli.igor@gmail.com>",
+  "author": "pastoreli_igor <igor@redfox.tech>",
   "homepage": "https://github.com/pastoreli/lerna-example#readme",
-  "license": "ISC",
-  "main": "lib/text.js",
+  "license": "MIT",
+  "main": "lib/text-field.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/pastoreli/lerna-example/issues"
-  },
-  "gitHead": "2f166904a9cf0a9acc66dccd233bc0e018f10192"
+  }
 }
