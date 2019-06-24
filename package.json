@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "lerna test",
-    "registry": "lerna publish --registry http://localhost:4873"
+    "publish:lerna": "lerna publish --registry http://localhost:4873"
   },
   "repository": {
     "type": "git",
