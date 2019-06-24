@@ -19,5 +19,8 @@
   "license": "MIT",
   "devDependencies": {
     "lerna": "^3.15.0"
+  },
+  "resolutions": {
+    "@lerna/publish": "3.15.0"
   }
 }
