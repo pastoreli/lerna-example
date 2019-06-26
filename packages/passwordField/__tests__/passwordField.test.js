@@ -2,6 +2,6 @@
 
 const passwordField = require('..');
 
-describe('@consent/password-field', () => {
+describe('@concent/passwordField', () => {
     it('needs tests');
 });

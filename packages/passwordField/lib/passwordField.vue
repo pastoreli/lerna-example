@@ -4,4 +4,3 @@
     <input name="pass" type="password" placeholder="teste" />
   </div>
 </template>
-
