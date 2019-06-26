@@ -8,7 +8,5 @@
 
 import passwordField  from './passwordField.vue'
 
-export default {
-    passwordField
-}
+export default passwordField
 
