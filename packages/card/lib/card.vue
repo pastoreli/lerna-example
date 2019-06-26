@@ -1,7 +1,7 @@
 <template>
   <div class="my-card">
     <p>Teste card</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae repudiandae voluptate a eligendi? Itaque cum id natus nostrum dolorem! Earum facere soluta rerum tenetur? Dolores quidem necessitatibus repudiandae nulla optio?</p>
+    <p>Lorem ipsuam dolor sit amet consectetur adipisicing elit. Beatae repudiandae voluptate a eligendi? Itaque cum id natus nostrum dolorem! Earum facere soluta rerum tenetur? Dolores quidem necessitatibus repudiandae nulla optio?</p>
   </div>
 </template>
 
