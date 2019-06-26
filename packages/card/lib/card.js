@@ -1,7 +1,3 @@
-'use strict';
+import card from './card.vue'
 
-module.exports = card;
-
-function card() {
-    // TODO
-}
+export default card
