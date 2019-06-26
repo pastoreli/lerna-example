@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "lerna test",
-    "publish:lerna": "lerna publish --registry http://localhost:4873"
+    "publish:lerna": "lerna publish --registry http://localhost:4873",
+    "publish:online": "lerna publish --registry https://npm.redfox.dev"
   },
   "repository": {
     "type": "git",
